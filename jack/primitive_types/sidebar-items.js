@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["JackFrames","Type used to represent sample frame counts."],["JackPortId","Ports have unique ids. A port registration callback is the only place you ever need to know their value."],["JackTime","Type used to represent the value of free running monotonic clock with units of microseconds."]]});

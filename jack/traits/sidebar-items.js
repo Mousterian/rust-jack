@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["NotificationHandler","Specifies callbacks for JACK."],["PortSpec","Defines the configuration for a certain port to JACK, ie 32 bit floating audio input, 8 bit raw midi output, etc..."],["ProcessHandler",""]]});
